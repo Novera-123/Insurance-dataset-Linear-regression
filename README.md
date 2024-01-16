@@ -1,4 +1,4 @@
-# Medical Charges Prediction Project - Linear Regression
+# Insurance Charges Prediction Project - Linear Regression
 ## Objective
 Primary Goal: To develop a predictive model using linear regression to estimate individual medical charges based on personal attributes.
 ## Challenges
